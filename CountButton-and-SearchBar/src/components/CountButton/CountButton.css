@@ -1,0 +1,30 @@
+.button-display1{
+    color: blue;
+    background-color: yellowgreen;
+    border-radius: 5px;
+    height: 50px;
+    width: 50px;
+}
+.button-display1:hover{
+    background-color: yellow;
+    cursor: pointer;
+}
+.button-display1:active {
+    background-color: yellowgreen;
+    cursor: pointer;
+}
+
+.count-display{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: red;
+    background-color: lightgray;
+    border-radius: 5px;
+    height: 50px;
+    width: 50px;
+    text-align: center;
+    
+    
+    
+}
